@@ -1,5 +1,5 @@
 package ArithmeticProg;
-
+ //commit changes
 import java.util.Scanner;
 
 public class ArithmeticProg {
